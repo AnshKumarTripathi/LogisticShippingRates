@@ -8,13 +8,8 @@
 # Ansh Kumar Tripathi
 
 # Input:
-p=0
 # p, principal amount
-t=0
 # t, time period in years
-r=0
 # r, annual rate of interest
-
 # Output:
-s=p*t*r
 # simple interest = p*t*r
